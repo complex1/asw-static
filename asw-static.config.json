@@ -1,0 +1,7 @@
+{
+  "srcPath": "src",
+  "templetePath": "pages",
+  "target": "dist",
+  "logs": "logs",
+  "static": "static"
+}
